@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Decode a Morse code message
 
 > Description the project.
+its a program in Ruby that helps crack the morse code
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-Ruby
 
 ## Live Demo (if available)
 
@@ -19,38 +18,39 @@
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Make sure you have installed RUBY on your terminal
+- by checking Ruby -v 
+- or you can check the [download here](https://www.ruby-lang.org/en/downloads/)
 ### Setup
+git clone 
+cd 
 
 ### Install
 
-### Usage
 
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Harold M**
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/haroldmud)
+- Twitter: [@twitterhandle](https://twitter.com/mudosaarnold)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/haroldmudosa)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Mandela T**
+
+- GitHub: [@mandelatuks](https://github.com/mandelatuks)
+- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1)
+- LinkedIn: [@Mandela Tumukunde](https://www.linkedin.com/in/mandela-tumukunde-794755194/) 
 
 ## 🤝 Contributing
 
