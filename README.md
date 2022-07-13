@@ -27,10 +27,10 @@ To get a local copy up and running follow these simple example steps.
 - by checking Ruby -v 
 - or you can check the [download here](https://www.ruby-lang.org/en/downloads/)
 ### Setup
-git clone 
-cd 
-
-### Install
+~~~
+git clone git@github.com:mandelatuks/Decode-a-Morse-.git
+cd Decode-a-Morse
+~~~
 
 
 
